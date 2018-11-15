@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Saputello/static/js/runtime~main.b0a4d670.js"
   },
   {
-    "revision": "6f91d4b34734dadfc54c",
-    "url": "/Saputello/static/js/main.6f91d4b3.chunk.js"
+    "revision": "e745557b372e277a8891",
+    "url": "/Saputello/static/js/main.e745557b.chunk.js"
   },
   {
     "revision": "f68dcc1a0c0c6e129be0",
     "url": "/Saputello/static/js/1.f68dcc1a.chunk.js"
   },
   {
-    "revision": "6f91d4b34734dadfc54c",
-    "url": "/Saputello/static/css/main.1243120f.chunk.css"
+    "revision": "e745557b372e277a8891",
+    "url": "/Saputello/static/css/main.1b588d3f.chunk.css"
   },
   {
-    "revision": "d5b129b325c9e3430fa52227972742bb",
+    "revision": "225da67b449a4333f053ce2001823e9c",
     "url": "/Saputello/index.html"
   }
 ];

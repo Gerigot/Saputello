@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Saputello",
+  "name": "Genera frasi che sembrano intelligenti ma alla fine non dicono un cazzo.",
   "icons": [
     {
       "src": "favicon.ico",
