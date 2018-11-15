@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Saputello/static/css/main.1b588d3f.chunk.css"
   },
   {
-    "revision": "225da67b449a4333f053ce2001823e9c",
+    "revision": "05f90fca706e5073426fa390faa1228e",
     "url": "/Saputello/index.html"
   }
 ];
